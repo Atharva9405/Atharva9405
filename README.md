@@ -6,10 +6,9 @@
 - 🤖 I'm currently a Pre final-year student at **IIIT Bhopal** 
 
 - 🌱 I’m currently learning **Back-End Developement and Data Structures and Algorithms**
+- 🤝 I’m looking to collaborate on **Web development** projects
 
--🤝 I’m looking to collaborate on Web development projects
-
-- 📫 How to reach me **atharvanagore2004@gmail.com**
+- 📫 You can reach me at **atharvanagore2004@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
